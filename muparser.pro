@@ -35,7 +35,7 @@ HEADERS += \
     include/muParserError.h \
     include/muParserFixes.h \
     include/muParserInt.h \
-    include/muParserStack.h \
+#    include/muParserStack.h \
     include/muParserTemplateMagic.h \
     include/muParserTest.h \
     include/muParserToken.h \
